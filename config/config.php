@@ -53,8 +53,8 @@ $config['timeZone'] =  "Asia/Kolkata";
 |
 */
 $config['db']['hostname'] =  "localhost";
-$config['db']['username'] =  "root";
-$config['db']['password'] =  "";
+$config['db']['username'] =  "master_tyzycuwfsu";
+$config['db']['password'] =  "BdCQCsh9nFBZ";
 $config['db']['database'] =  "checkerbot";
 
 /*
